@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:music_app/presentation/home_page.dart';
+import 'package:music_app/view/screens/home_page.dart';
 import 'package:sizer/sizer.dart';
 import 'package:lottie/lottie.dart';
 

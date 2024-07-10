@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:music_app/presentation/intro_screen.dart';
+import 'package:music_app/view/screens/intro_screen.dart';
 import 'package:sizer/sizer.dart';
 
 class MusicApp extends StatefulWidget {
